@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EcelFIle_merger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EcelFIle_merger_jar</output-path>
+    <root id="archive" name="EcelFIle_merger.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
